@@ -1,0 +1,19 @@
+{
+  "name": "testplug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@wordpress/block-editor": "^5.2.7",
+    "@wordpress/scripts": "^13.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"wp-scripts build",
+    "start":"wp-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

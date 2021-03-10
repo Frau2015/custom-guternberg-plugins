@@ -1,0 +1,13 @@
+#img34-container{
+    max-width: 500px;
+}
+#img34-container img{
+    float:left;
+    shape-outside: circle(50%);
+}
+.glide__bullet{
+    background-color: #a7a7a7;
+}
+.glide__bullet--active{
+    background-color: rgb(65, 65, 65);
+}
